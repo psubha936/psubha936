@@ -11,9 +11,9 @@
 
 - 👯 I’m worked on **Jobcheck,SkillCheck,Handypro**
 
-- 🤝 I’m looking for help with **Handypro**
+- 🤝 I’m looking for help with **New Project**
 
-- 👨‍💻 All of my projects are available at [subhaprakashnayak@netlify.app](subhaprakashnayak@netlify.app)
+- 👨‍💻 All of my projects are available at [subhaprakashnayak@netlify.app](https://subhaprakashnayak-portfolio.netlify.app/)
 
 - 💬 Ask me about **Node,Angular,React,Mongo,Kafka,Prisma**
 
