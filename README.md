@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Jenkins,AWS**
 
-- 👯 I’m worked on **Jobcheck,SkillCheck,Handypro**
+- 👯 I’m worked on **Jobcheck,SkillCheck,Handypro,Tell.Money,Intoto**
 
 - 🤝 I’m looking for help with **New Project**
 
