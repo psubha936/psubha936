@@ -5,11 +5,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psubha936" alt="psubha936" /></a> </p>
 
-- 🔭 I’m currently working on **Bayshore health Care**
+- 🔭 I’m currently working on **IserveU Banking Project**
 
 - 🌱 I’m currently learning **Jenkins,AWS**
 
-- 👯 I’m worked on **Jobcheck,SkillCheck,Handypro,Tell.Money,Intoto**
+- 👯 I’m worked on **Bayshore health Care,Jobcheck,SkillCheck,Handypro,Tell.Money,Intoto**
 
 - 🤝 I’m looking for help with **New Project**
 
