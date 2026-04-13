@@ -5,17 +5,17 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=psubha936" alt="psubha936" /></a> </p>
 
-- 🔭 I’m currently working on **IserveU Banking Project**
+- 🔭 I’m currently working on **UNEXT Learning By Manipal**
 
 - 🌱 I’m currently learning **Jenkins,AWS**
 
-- 👯 I’m worked on **Bayshore health Care,Jobcheck,SkillCheck,Handypro,Tell.Money,Intoto**
+- 👯 I’m worked on **Bayshore health Care,Jobcheck,SkillCheck,Handypro,Tell.Money,Intoto,Fintech**
 
 - 🤝 I’m looking for help with **New Project**
 
 - 👨‍💻 All of my projects are available at [subhaprakashnayak@netlify.app](https://subhaprakashnayak-portfolio.netlify.app/)
 
-- 💬 Ask me about **Node,Angular,React,Mongo,Kafka,Prisma**
+- 💬 Ask me about **Node,Go Lang,Angular,React,Mongo,Kafka,Prisma**
 
 - 📫 How to reach me **psubha936@gmail.com**
 
